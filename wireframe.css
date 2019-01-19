@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin:auto;
+    }
+    .boxh{
+      background: #ebebeb;
+      text-align:center;
+      margin:10px;
+      padding:35px;
+      
+    }
+    .boxn{
+      background: #ebebeb;
+      text-align:center;
+      margin:10px;
+      padding:35px;
+    }
+    .boxc{
+      background: #ebebeb;
+      height:220px;
+      width:49%;
+      float:right;
+      line-height:7;
+      text-align:center;
+    }
+    .boxs{
+      background: #ebebeb;
+      height: 220px;
+      width: 49%;
+      line-height:2;
+      text-align:center;
+    }
+    .boxr{
+    color: #ebebeb;
+    background: #777;
+    
+    }
+    
+    .boxe{ 
+      background: #ebebeb;
+      color:#777; 
+    
+    }
+    
+    .boxp{
+       background: #ebebeb;
+      color:#777; 
+      
+    }
+    
+    .boxf{
+      background: #ebebeb;
+       text-align:center;
+      margin:20px;
+      padding:10px;
+    }
