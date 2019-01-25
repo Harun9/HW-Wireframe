@@ -24,7 +24,6 @@ body{
     }
     .boxc{
       background: #ebebeb;
-      height:220px;
       width:28%;
       height:150px;
       text-align:center;
@@ -51,12 +50,12 @@ body{
     color: #ebebeb;
     background:#777;
     text-align: center;
-    width: 360px;
+     width: 360px;
     height: 200px;
-padding-top: 5px;
-position: absolute;
-right: 80px;
-left:30px;
+ padding-top: 5px;
+   position: absolute;
+     right: 80px;
+      left:30px;
     
     
     }
